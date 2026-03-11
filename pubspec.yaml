@@ -1,0 +1,22 @@
+name: ateno_flutter
+description: Official Flutter UI components for rendering Ateno Spatial Designs in 3D.
+version: 0.1.0
+homepage: https://ateno.co
+
+environment:
+  sdk: ^3.0.0
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  webview_flutter: ^4.0.0
+  webview_flutter_android: ^3.0.0
+  webview_flutter_wkwebview: ^3.0.0
+  shelf: ^1.4.0
+  hugeicons: ^0.0.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
